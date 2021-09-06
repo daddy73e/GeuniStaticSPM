@@ -2,7 +2,7 @@ struct GeuniStaticSPM {
     var text = "Hello, World!"
 }
 
-public class Test {
+open class Test {
     public func test() {
         print("TEST")
     }
