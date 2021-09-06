@@ -7,7 +7,7 @@
 
 import Foundation
 
-open class StaticTest {
+open class StaticTest:NSObject {
     public func testCall() {
         
     }
