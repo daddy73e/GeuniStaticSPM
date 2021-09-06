@@ -1,2 +1,3 @@
 # GeuniStaticSPM
-static lib
+
+A description of this package.

@@ -1,11 +1,11 @@
     import XCTest
-    @testable import StaticTest
+    @testable import GeuniStaticSPM
 
-    final class StaticTestTests: XCTestCase {
+    final class GeuniStaticSPMTests: XCTestCase {
         func testExample() {
             // This is an example of a functional test case.
             // Use XCTAssert and related functions to verify your tests produce the correct
             // results.
-            XCTAssertEqual(StaticTest().text, "Hello, World!")
+            XCTAssertEqual(GeuniStaticSPM().text, "Hello, World!")
         }
     }
