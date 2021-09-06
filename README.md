@@ -1,0 +1,2 @@
+# GeuniStaticSPM
+static lib
